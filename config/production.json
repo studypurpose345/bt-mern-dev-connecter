@@ -1,6 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://Akshat:Akshat123@devconnecter-07jbt.mongodb.net/devconnecter?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken",
-  "githubClientId": "71b7ca600428bd814661",
-  "githubSecret": "f0b23ca06834ebc40f5509d74848fdff243a3dff"
-}
